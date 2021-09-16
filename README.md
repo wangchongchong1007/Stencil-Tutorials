@@ -1,6 +1,6 @@
 # Stencil-Tutorials (Stenciljs 教程)
 
-一个简单的英文教程的简单翻译， 原文地址: [Stencil](https://stenciljs.com/)。主要目的是方便自己整理和学习。
+一个英文教程的简单翻译， 原文地址: [Stencil](https://stenciljs.com/docs/introduction)。主要目的是方便自己整理和学习。
 
 ---
 
