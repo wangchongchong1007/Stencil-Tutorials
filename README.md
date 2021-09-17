@@ -4,7 +4,7 @@ Stenciljs 教程的简单翻译， 原文地址: [Stencil](https://stenciljs.com
 
 ---
 
-[TOC]
+1.1 [Why Stencil](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.1%20Why%20Stencil.md)
 
 # 介绍
 
