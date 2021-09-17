@@ -3,9 +3,10 @@
 Stenciljs 教程的简单翻译， 原文地址: [Stencil](https://stenciljs.com/docs/introduction)。主要目的是方便自己整理和学习。
 
 ---
+
 1. Stencil 介绍
-1.1 [Why Stencil](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.1%20Why%20Stencil.md)
-1.2 
+- 1.1. [Why Stencil](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.1%20Why%20Stencil.md)
+- 1.2. [Goals and Objectives]()
 
 # 介绍
 
