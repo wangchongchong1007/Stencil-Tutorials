@@ -8,6 +8,32 @@ Stencil 是一个以开发者为中心的工具链，用于构建可重用，可
 
 Stencil 专注于使用 Web 标准构建组件，被全世界的开发者和组织使用，是 [100% 免费和 MIT 开源的](https://github.com/ionic-team/stencil/blob/master/LICENSE.md)。
 
+### Stencil 做什么？
+
+Stencil 帮助开发者和开发团队构建并共享自定义组件。由于 Stencil 生成符合标准的 Web Components 组件，使用 Stencil 构建的组件可以与许多流行框架一起使用，甚至不需要框架也可以使用，因为这些组件是标准的 Web Components 组件。
+Stencil 还在 Web Components 组件之上启用了许多关键功能，特别是预渲染和对象作为属性（不仅仅是字符串）。
+
+### Stencil 适用于什么？
+
+
+
+### 谁创造了Stencil？
+
+
+### Stencil是什么原因被创建的？
+
+
+### 谁使用Stencil？
+
+
+### Stencil 与传统框架相比如何？
+
+
+### 为什么 Stencil 被认为与框架无关？
+
+
+
+
 ## Stencil 提供了什么
 
 ## 技术
