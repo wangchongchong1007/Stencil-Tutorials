@@ -15,13 +15,15 @@ Stencil 还在 Web Components 组件之上启用了许多关键功能，特别�
 
 ### Stencil 适用于什么？
 
-
+Stencil 服务于希望构建跨团队，跨框架，跨大型组织共享的自定义组件库和设计系统的开发者和开发团队。设计师也可以使用 Stencil 将他们的原始设计理念始终如一的、高保真的传递给所有用户。
 
 ### 谁创造了Stencil？
 
+Stencil 是由 [Ionic core Team](https://ionicframework.com/) 发起的一个开源项目，还有来自社区的贡献。
 
 ### Stencil是什么原因被创建的？
 
+Stencil 被 Ionic 框架团队创建，旨在使我们自己的组件库更快、更小以及和所有主流框架兼容。Web Components 通过将更多工作推送给浏览器以获得更好的性能提供了一种解决方案，并且针对所有框架都可以使用
 
 ### 谁使用Stencil？
 
