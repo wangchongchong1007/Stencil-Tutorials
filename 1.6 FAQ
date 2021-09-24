@@ -27,9 +27,17 @@ Stencil 被 Ionic 框架团队创建，旨在使我们自己的组件库更快�
 
 ### 谁使用Stencil？
 
+Stencil 最初是为 Ionic 框架开发的，现在 Stencil 已经成为一个很成功的基于 Web Components 的设计系统/ UI 框架。Web Components 现在已经出现在数以千计的应用中，并且每年有接近 4 百万新 Ionic 框架项目被创建。
 
 ### Stencil 与传统框架相比如何？
 
+Web Components 生态圈有各种各样的参与者，每个人对于 Web Components 可以做什么，应该做什么都有不同的长期愿景。
+
+有人认为 Web Components 应该取代第三方应用框架，而另一些人则认为 Web Components 更适用于叶子节点、样式节点、设计节点，并且不应该参与到应用组件系统的业务中来。有许多框架开发者不明白 Web Components 的意义，认为是前端创新的侮辱。
+
+对于 Stencil，我们的愿景介于两者之间。从长远来说，我们看到应用开发团队将继续使用他们所选择的框架。我们预想这些框架会变得更好、更小、更高效，对定位和使用 Web Components 提供越来越好的支持。随着公司继续将 Web Components 用于共享设计系统，大型团队将使用越来越多的 组件。
+
+同时，我们坚信 Web Components 是解决组件分布和设计系统问题不可获取的功能。然而我们也认为 90% 的市场一开始就没有这些问题，所以当前讨论 Web Components 的优缺点有些徒劳。
 
 ### 为什么 Stencil 被认为与框架无关？
 
