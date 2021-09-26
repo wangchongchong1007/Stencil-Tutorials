@@ -47,8 +47,7 @@ Web Components 生态圈有各种各样的参与者，每个人对于 Web Compon
 
 ### Stencil 有组件库吗？
 
-
-
+最广泛使用 Stencil 组件库的是 Ionic 框架，然而 Stencil 本身只是一个工具链并没有提供自己的组件库。如果你正在构建应用，我们鼓励你首先查看 Ionic 组件。
 
 ## 技术
 
