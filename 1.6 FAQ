@@ -49,6 +49,14 @@ Web Components 生态圈有各种各样的参与者，每个人对于 Web Compon
 
 最广泛使用 Stencil 组件库的是 Ionic 框架，然而 Stencil 本身只是一个工具链并没有提供自己的组件库。如果你正在构建应用，我们鼓励你首先查看 Ionic 组件。
 
+### Stencil 是一个框架吗？
+
+Stencil 故意不努力充当一个独立的框架，而充当一种工具，它允许开发人员在许多项目，团队以及大型组织中扩展与框架无关的组件。Stencil 的超能力之一是它的灵活性：他的组件可以被单独使用，也可以在传统框架中使用。
+
+### Stencil 有测试框架吗？
+
+答案是肯定的。Stencil 为单元测试和端到端测试提供了一组丰富的 API。[了解更多 Stencil 测试](https://stenciljs.com/docs/testing-overview)
+
 ## 技术
 
 ## 性能
