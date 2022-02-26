@@ -105,11 +105,17 @@ Stencil 最初是为 Ionic 构建的，根据我们的经验，我们发现 Type
 
 ### Stencil 编译器有哪些依赖项？
 
-TypeScript。
+只有 TypeScript。
 
 ### 数据可以传递给 Web Components 吗？
 
+就像页面上其他任何的 DOM 元素一样，数组、对象、字符串和数字形式的任何数据都可以传递给元素属性。Stencil 是从头开始设计的，以确保开发人员在使用时保持解锁状态。
 
+一个错误的说法是，只有字符串才能传递给定制元素中，这是来自 React 版本的 VDom。开箱即用，React 只能将字符串和数字传递给组件，并且他不能监听自定义事件。使用 Stencil，组件看起来就像是 React 组件一样，所有属性像函数、对象和数组都可以被正确传递。绑定还通过创建一个 "on" 的属性来实现自定义事件。这些允许 React 开发者像 React 组件一样与 Web Components 交互。
+
+### Stencil 使用什么技术构建的？
+
+Stencil 编译器使用 TypeScript 和
 
 ## 性能
 
