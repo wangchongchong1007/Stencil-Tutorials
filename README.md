@@ -10,7 +10,7 @@ Stenciljs 教程的简单翻译， 原文地址: [Stencil](https://stenciljs.com
 - 1.3 [Browser Support](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.3%20Browser%20Support.md)
 - 1.4 [Getting Start](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.4%20Getting%20Started.md)
 - 1.5 [My First Component](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.5%20My%20First%20Component.md)
-- 1.6 [FAQ](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.6%20FAQ)
+- 1.6 [FAQ](https://github.com/wangchongchong1007/Stencil-Tutorials/blob/main/1.6%20FAQ.md)
 
 # 介绍
 
