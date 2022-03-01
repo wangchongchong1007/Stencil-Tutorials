@@ -115,13 +115,41 @@ Stencil 最初是为 Ionic 构建的，根据我们的经验，我们发现 Type
 
 ### Stencil 使用什么技术构建的？
 
-Stencil 编译器使用 TypeScript 和
+Stencil 编译器使用 TypeScript 并发布在 npm (npm)[https://www.npmjs.com/package/@stencil/core] 上。他的发行版包含了许多类型，这使开发者更容易使用 Stencil API。
 
 ## 性能
+
+### Stencil 组件可以在哪里使用？
+
+使用 Web Component 的一大优势是你的组件库适用于所有项目，不仅仅是桌面网络应用。
+
+例如，使用像 Ionic 这样的混合移动框架，你可以在几乎平台和设备上部署 Web Component。从原生 iOS / 安卓应用，到 Electron 桌面应用，甚至是渐进式应用（PWA）。
+
+### Web Components 的限制是什么？
+
+Web Component(Web Component)[https://developer.mozilla.org/en-US/docs/Web/Web_Components] 有意设置得低级别，他们本身不能提供框架级别的开发体验。Web Component 运行在一套相当原始的标准之上，因此你需要一些帮助让他们来实现你的目标。
+
+一些限制包括：
+
+当你在项目中使用纯原生的 Web Component, 默认情况下不支持服务端渲染和渐进增强等功能，并且一些过时的浏览器不支持 Web Component 标准。
+
+另外，Web Component 技术可以在任何框架中工作，但是有一些限制，比如，缺乏类型支持和输入绑定，以及如上所述，缺乏将属性传递给组件的挑战。
+
+好消息是，在例如 Stencil 的开源工具帮助下，你可以克服这些限制。Stencil 包含 React, Angular, Vue 的框架绑定，因此你可以很容易的将 Web Component 组件导入任何项目，使用你习惯的所有功能与框架互动，就像他们在那个框架中一样。
+
+### 什么是框架绑定？
+
+### Stencil 为 Web Components 添加了哪些功能？
+
+### 哪些浏览器可以支持 Stencil 组件？
+
+### Stencil提供了哪些 Polifill ?
 
 ## Stencil 项目
 
 ### 从哪里获得支持
+
+### 当前提供的 Stencil  版本是什么？
 
 ### 如何参与项目
 
